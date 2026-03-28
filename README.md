@@ -1,4 +1,6 @@
 # GE338-Lab-2 Spatial Analysis กับ Google Earth Engine
+ลิงก์สำหรับเปิดใน Colab https://colab.research.google.com/drive/1YBcDA2xgGMi0ccAUmrxm15i_uowUtECP?usp=sharing
+
 **Situation**
 หน่วยงานจัดการทรัพยากรธรรมชาติของจังหวัดแห่งหนึ่งในภาคเหนือของไทยต้องการข้อมูลพื้นฐานเพื่อวางแผนการจัดการที่ดินในฤดูแล้ง พวกเขาต้องการทราบว่า
 
